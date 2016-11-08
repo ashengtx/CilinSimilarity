@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# Copyright (C) 2016 ashengtx <550740787@qq.com>
+# Copyright (C) 2016 ashengtx <linls@whu.edu.cn>
 # under MIT License
 
 import math
