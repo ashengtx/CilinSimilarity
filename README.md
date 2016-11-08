@@ -1,5 +1,5 @@
 # CilinSimilarity
-Word similarity computing based on Tongyici Cilin
+Word similarity computation based on Tongyici Cilin
 
 这是一个基于哈工大同义词词林扩展版的单词相似度计算方法的python实现，参考了三篇paper，实现了三种相似度的计算方法。
 
